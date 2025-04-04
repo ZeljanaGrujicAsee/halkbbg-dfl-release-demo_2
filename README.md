@@ -6,6 +6,7 @@ Ovaj repozitorijum služi kao centralizovano mesto za arhiviranje dokumentacije 
 
 Repozitorijum je organizovan po sledećoj strukturi:
 
+```
 halkbbg-dfl-release-demo_2/
 ├── ProizvodA/
 │   ├── release-1.0.0/
@@ -24,7 +25,7 @@ halkbbg-dfl-release-demo_2/
 │   │   ├── ...
 │   └── ...
 └── ...
-
+```
 
 * **` halkbbg-dfl-release-demo_2/`**: Root direktorijum repozitorijuma.
 * **`ProizvodA/`, `ProizvodB/`, ...**: Grana za svaki proizvod npr. DigitalBranch, DigitalCIF, DigitalOrigination....
