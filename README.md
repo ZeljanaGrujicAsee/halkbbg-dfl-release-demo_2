@@ -1,4 +1,4 @@
-# halkbbg-dfl-release-demo_2 - Repozitorijum za Arhiviranje Dokumentacije Isporučene Halk banci
+# Repozitorijum za Arhiviranje Dokumenata Isporučenih Halk banci
 
 Ovaj repozitorijum služi kao centralizovano mesto za arhiviranje dokumentacije koja se isporučuje banci prilikom svakog release-a. Cilj je da se obezbedi jasna organizacija, istorija promena i efikasna pretraga dokumenata prema nazivu i/ili sadržaju fajla.
 
@@ -35,8 +35,8 @@ halkbbg-dfl-release-demo_2/
 
 ## Mehanizam Arhiviranja
 
-1.  **Kreiranje Pull Request-a (PR), Merge PR-a, Kreiranje Release'a, Kopiranje Dokumenata:**
-    * Prilikom kreiranja pull request-a u repozitorijumu [koji generiše](https://github.com/assecosee/halkbbg-dfl-release/tree/main)] generise .zip koji se isporučuje banci, a sadržaj repoa-a se prazni i priprema za sledeću isporuku, pre nego što se sadržaj ovog repo-a isprazni sadržaj documents podfoldera se kopira u okviru našeg repo-a na odgovarajuće grane.
+1.  **Kreiranje Pull Request-a (PR), Merge PR-a, Kreiranje Release-a, Kopiranje Dokumenata:**
+    * Pull request sa izmenama dokumenata se kreira na repozitorijumu (https://github.com/assecosee/halkbbg-dfl-release/tree/main) koji generiše .zip koji se isporučuje banci, a sadržaj repoa-a se prazni i priprema za sledeću isporuku, pre nego što se sadržaj ovog repo-a isprazni sadržaj documents podfoldera se kopira na naš repozitorijum na odgovarajuće grane.
 
 ## Prednosti
 
@@ -47,4 +47,4 @@ halkbbg-dfl-release-demo_2/
 
 ## Upotreba
 
-* Koristiti Markdown format (`.md`) za dokumentaciju, jer se na taj način omogućava pretraga po imenu i-ili sadržaju fajlova.
+* Koristiti Markdown format (`.md`) za dokumentaciju, jer se na taj način omogućava pretraga po imenu i/ili sadržaju fajlova.
